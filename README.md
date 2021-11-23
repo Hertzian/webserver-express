@@ -1,6 +1,6 @@
-## Código fuente 
+## Simple Web server
 
-Descargar dependencias
+Download dependencies
 ```
 npm install
 ```
